@@ -54,5 +54,31 @@ public class Main {
         System.out.println(TeenNumberChecker.hasTeen(22,23,24));
         System.out.println(TeenNumberChecker.isTeen(9));
         System.out.println(TeenNumberChecker.isTeen(13));
+
+        //Test 8
+        System.out.println("\nArea Calculator Tests");
+        AreaCalculator.area(5.0);
+        AreaCalculator.area(-1);
+        AreaCalculator.area(5.0,4.0);
+        AreaCalculator.area(-1.0, 4.0);
+
+        //Test 9
+        System.out.println("\nMinutes to years and Days Calculator Tests");
+        MinutesToYearsDaysCalculator.printYearsAndDays(525600);
+        MinutesToYearsDaysCalculator.printYearsAndDays(1051200);
+        MinutesToYearsDaysCalculator.printYearsAndDays(561600);
+        MinutesToYearsDaysCalculator.printYearsAndDays(561600);
+
+        //Test 10
+        System.out.println("\nEquality printer Tests");
+        IntEqualityPrinter.printEqual(1,1,1);
+        IntEqualityPrinter.printEqual(1,1,2);
+        IntEqualityPrinter.printEqual(-1,-1,-1);
+        IntEqualityPrinter.printEqual(1,2,3);
+
+        //Test 11
+        System.out.println("\nPlaying Cat Tests");
+        System.out.println(PlayingCat.isCatPlaying(true, 10));
+        System.out.println(PlayingCat.isCatPlaying(false, 36));
     }
 }
