@@ -86,7 +86,11 @@ public class Main {
         System.out.println(NumberToWords.getDigitCount(123));
         System.out.println(NumberToWords.getDigitCount(-12));
         System.out.println(NumberToWords.getDigitCount(5200));
-        System.out.println(NumberToWords.reverse(-121));
+        System.out.println(NumberToWords.reverse(-121));//        System.out.println(FlourPacker.canPack(1,0,4));
+//        System.out.println(FlourPacker.canPack(1,0,5));
+        System.out.println(FlourPacker.canPack(2,2,12));
+//        System.out.println(FlourPacker.canPack(2,2,11));
+//        System.out.println(FlourPacker.canPack(-3,2,12));
         System.out.println(NumberToWords.reverse(1212));
         System.out.println(NumberToWords.reverse(1234));
         System.out.println(NumberToWords.reverse(100));
@@ -94,6 +98,25 @@ public class Main {
         NumberToWords.numberToWords(1010);
         NumberToWords.numberToWords(1000);
         NumberToWords.numberToWords(-12);
+
+        //Test 24
+        System.out.println("\nFlour Packer tests");
+        System.out.println(FlourPacker.canPack(1,0,4));
+        System.out.println(FlourPacker.canPack(1,0,5));
+        System.out.println(FlourPacker.canPack(2,2,12));
+        System.out.println(FlourPacker.canPack(2,2,11));
+        System.out.println(FlourPacker.canPack(-3,2,12));
+
+        //test 25
+        System.out.println("\nLargest Prime tests");
+        System.out.println(LargestPrime.getLargestPrime(16));
+        System.out.println(LargestPrime.getLargestPrime(217));
+        System.out.println(LargestPrime.getLargestPrime(0));
+        System.out.println(LargestPrime.getLargestPrime(45));
+
+        //test 26
+        DiagonalStar.printSquareStar(5);
+        DiagonalStar.printSquareStar(8);
     }
 
 }
