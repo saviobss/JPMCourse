@@ -2,29 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae0cddbc-45c2-491f-9b51-aba480353b8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/EvenDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/EvenDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/FactorPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/FactorPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/FirstLastDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/FirstLastDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/FlourPacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/FlourPacker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/LargestPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/LargestPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/LastDigitChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/LastDigitChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/META-INF/5.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/NumberInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/NumberInWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/NumberOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/NumberOfDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/NumberPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/NumberPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/SharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/SharedDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/5/SumOddRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/5/SumOddRange.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="116" column="17" lean-forward="true" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,12 +61,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="25" />
     <option name="width" value="1919" />
     <option name="height" value="1024" />
   </component>
+  <component name="ProjectId" id="2DD70tmhv28GFPjwlWyJMXKjaVe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -73,8 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,31 +102,27 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1657134922690" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4/exercises/src/LeapYear.java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/savio/Documentos/mine/JPMSD/5",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="5" />
       <RunnerSettings RunnerId="Run" />
@@ -128,12 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -148,17 +147,19 @@
       <workItem from="1656939164348" duration="12673000" />
       <workItem from="1657111385460" duration="10244000" />
       <workItem from="1657905882071" duration="4265000" />
+      <workItem from="1658261444036" duration="597000" />
+      <workItem from="1660221585033" duration="8751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38430000" />
+    <option name="totallyTimeSpent" value="39027000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1022" extended-state="7" />
+    <frame x="0" y="27" width="1920" height="1022" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -191,19 +192,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LargestPrime.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/academy/learningprogramming/Main.java" />
@@ -328,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="116" column="17" lean-forward="true" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+        <state relative-caret-position="687">
+          <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
         </state>
       </provider>
     </entry>
