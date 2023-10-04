@@ -1,3 +1,5 @@
+package expressions_statements;
+
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double first, double second) {
         int i = 4;

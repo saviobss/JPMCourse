@@ -1,3 +1,5 @@
+package control_flow;
+
 public class NumberInWord {
     public static void printNumberInWord (int number){
         switch (number){

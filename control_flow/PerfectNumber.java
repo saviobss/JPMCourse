@@ -1,3 +1,5 @@
+package control_flow;
+
 public class PerfectNumber {
     public static boolean isPerfectNumber (int number) {
         int sum = 0;

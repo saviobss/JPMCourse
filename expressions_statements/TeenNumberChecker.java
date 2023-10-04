@@ -1,3 +1,5 @@
+package expressions_statements;
+
 public class TeenNumberChecker {
     public static boolean hasTeen(int first, int second, int third) {
         int numbers[] = {first, second, third};

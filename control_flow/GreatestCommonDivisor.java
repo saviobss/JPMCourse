@@ -1,3 +1,5 @@
+package control_flow;
+
 public class GreatestCommonDivisor {
     public static int getGreatestCommonDivisor (int a, int b) {
         int aux;

@@ -1,3 +1,5 @@
+package expressions_statements;
+
 public class SpeedConverter {
     public static long toMilesPerHour (double kilometersPerHour) {
         long milesPerHour = Math.round(kilometersPerHour / 1.609);

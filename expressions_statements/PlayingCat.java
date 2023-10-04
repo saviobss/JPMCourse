@@ -1,3 +1,5 @@
+package expressions_statements;
+
 public class PlayingCat {
     public static boolean isCatPlaying (boolean summer, int temperature) {
         if (summer && temperature > 24 && temperature < 46) {
